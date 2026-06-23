@@ -27,7 +27,7 @@ jobs:
       - name: Check comment count
         env:
           SERVERCHAN_SENDKEY: ${{ secrets.SERVERCHAN_SENDKEY }}
-        run: python monitor_bilibili_comments.py --cloud-check --no-open
+        run: python monitor_bilibili_comments.py --cloud-check --no-open --targets 415
 
       - name: Commit alert state
         shell: bash
