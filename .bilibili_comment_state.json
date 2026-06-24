@@ -1,9 +1,10 @@
 {
   "alerted_targets": [
-    415
+    415,
+    519
   ],
   "bvid": "BV19zj16cExw",
-  "last_alert_count": 416,
-  "last_alerted_at": "2026-06-23T16:56:54+00:00",
+  "last_alert_count": 526,
+  "last_alerted_at": "2026-06-24T11:26:41+00:00",
   "title": "\u201c\u65e0\u8bba\u5982\u4f55\uff0c\u8bf7\u6c38\u8fdc\u4e0d\u8981\u653e\u5f03\u4f60\u7684\u68a6\u60f3\uff01\u201d"
 }
